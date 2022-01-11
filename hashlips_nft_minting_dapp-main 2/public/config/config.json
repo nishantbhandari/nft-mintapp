@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x55bBDb235346f088337291B94370BB413efF03Bf",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x55bBDb235346f088337291B94370BB413efF03Bf",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Baby Monk",
+  "SYMBOL": "BM",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
